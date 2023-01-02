@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UjianAndroidWeek1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="perihal">Perihal</string>
+    <string-array name="kategori">
+        <item>Izin Bencana</item>
+        <item>Izin Sakit</item>
+        <item>Izin Anak Sakit</item>
+    </string-array>
+
+</resources>
